@@ -1,0 +1,20 @@
+@font-face {
+ font-family: 'Montserrat regular';
+ src: url("../fonts/Montserrat_regular.woff") format('woff');
+ font-weight: 400;
+ font-display: swap;
+ font-style: normal;
+}
+
+@font-face {
+ font-family: 'Romul_regular';
+ src: url("../fonts/Romul_regular.woff") format('woff');
+ font-weight: 400;
+ font-display: swap;
+ font-style: normal;
+}
+
+$montserrat-stack: 'Montserrat regular',
+sans-serif;
+$romul-stack: 'Romul_regular',
+sans-serif;
